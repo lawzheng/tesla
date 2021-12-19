@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tesla Roadster
+* source:	https://sketchfab.com/3d-models/tesla-roadster-e2d48e1f1d1e494aabb59408d464b92a
+* author:	DJS (https://sketchfab.com/s.jailen.jones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tesla Roadster" (https://sketchfab.com/3d-models/tesla-roadster-e2d48e1f1d1e494aabb59408d464b92a) by DJS (https://sketchfab.com/s.jailen.jones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
